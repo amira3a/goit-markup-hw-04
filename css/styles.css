@@ -358,29 +358,7 @@ body {
     border-color:var(--accent-color);
 }
 
-/*.stroke{
-    stroke:#AFB1B8;
-    stroke: width 1px;
-}
-.stroke:hover,
-.stroke:focus{
-    stroke:var(--accent-color);
-    stroke: width 1px;
-}
-.customer-item:hover,
-.customer-item:focus{
-    fill: var(--accent-color);
-}
-.customer-svg{
-    width: 170px;
-    height: 92px;
-}*/
 
-
-
-/*portfolio page*/
-/*main*/
-/*button section*/
 
 .button-section{
     padding-bottom: 0px;
