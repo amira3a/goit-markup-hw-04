@@ -181,7 +181,8 @@ body {
     overflow: hidden;
 }
 .features-section{
-    margin-bottom: 94px;
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 .feature-item:not(:last-child){
     margin-right: 45px;
@@ -219,7 +220,6 @@ body {
     padding: 25px 100px;
     background-color: #F5F4FA;
     border-radius: 4px;
-    margin-top: 58px;
     margin-bottom: 30px;
     
 }
